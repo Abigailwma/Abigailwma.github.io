@@ -1,0 +1,36 @@
+h1{
+    background-color:turquoise;
+    font-size: 50px;
+    font-family: monospace;
+    color: white;
+}
+
+.black{
+    color: black
+}
+
+body{
+    background-color:lightseagreen;
+    font-family: monospace;
+    font-size: 15px;
+    color:darkslategrey;
+    margin: 100px;
+}
+
+h2{
+    background-color:teal;
+    font-family: monospace;
+    font-size: 30px;
+    color: white;
+}
+h3{
+    background-color: lightseagreen;
+    font-family: monospace;
+    font-size: 20px;
+    color: black
+    
+}
+
+.center{
+    text-align: center;
+}
